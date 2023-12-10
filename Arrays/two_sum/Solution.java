@@ -7,7 +7,7 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
         
         // Init pointer
-        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+        Map<Integer, Integer> map = new HashMap<>();
 
         // Loop array once using the containsKey() method to find the compliment inside the HashMap
         for(int i = 0; i < nums.length; i++){
