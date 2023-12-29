@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
+// Beats 5.80% of users in runtime - 61ms, and 5.29% in memory using 52.47MB
 
 public class Solution {
     
